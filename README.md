@@ -6,6 +6,13 @@ This project Cypress to automate the testing of a login feature and user update 
 ```bash
 npm install
 ```
-> **NOTE
+> **NOTE:**
 > >
-> it is necessary to have **node installed
+> it is necessary to have **node** installed
+
+## Running
+```bash
+# You open the Cypress UI
+```
+npx cypress open
+
