@@ -16,3 +16,5 @@ npm install
 ```
 npx cypress open
 
+# Run the automation by commnad line
+npx cypress run
