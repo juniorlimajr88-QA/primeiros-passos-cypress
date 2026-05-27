@@ -4,6 +4,7 @@ import DashboardPage from '../pages/dashboardPage.js'
 import MenuPage from '../pages/menuPage.js'
 import InfoPage from '../pages/InfoPage.js'
 
+
 const Chance = require('chance');
 const chance = new Chance();
 
@@ -11,6 +12,7 @@ const loginPage = new LoginPage()
 const dashboardPage = new DashboardPage()
 const menuPage = new MenuPage()
 const infoPage = new InfoPage()
+
 
 describe('Orange HRM Tests', () => {
 
